@@ -1,4 +1,4 @@
-# process_job
+# process_job - background processing
 
 `process_job` is a Node.js utility that helps manage job processing status using Server-Sent Events (SSE). It provides mechanisms to start, track, and complete jobs, with updates sent to the client in real-time.
 
