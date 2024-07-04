@@ -1,0 +1,22 @@
+{
+  "name": "process_job",
+  "version": "1.0.19",
+  "description": "The Job Processing Library is a Node.js module designed to simplify and streamline the management of asynchronous job processing tasks within server-side applications. It leverages Server-Sent Events (SSE) to provide real-time updates on job statuses, enabling seamless communication between server and client during lengthy processing tasks.",
+  "main": "index.js",
+  "keywords": [
+    "process jobs",
+    "backgorund processing",
+    "live update to frontend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepbag/process_job.git"
+  },
+  "homepage": "https://github.com/deepbag/process_job.git",
+  "author": "Deep Bag",
+  "license": "MIT",
+  "devDependencies": {
+    "node-cache": "^5.1.2",
+    "typescript": "^5.5.2"
+  }
+}
