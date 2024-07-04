@@ -71,3 +71,18 @@ app.listen(9000, () => {
   console.log(`Server is running on port ${9000}`);
 });
 ```
+
+
+## Dependencies
+
+- [uuid](https://www.npmjs.com/package/uuid): for random id generation
+- [node-cache](https://www.npmjs.com/package/node-cache): Simple and fast NodeJS internal caching
+
+## Contributers
+
+We welcome contributions from the community! If you find a bug, have a feature request, or would like to contribute code, please open an issue or pull request on our GitHub repository. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepbag/process_job)
+<!-- https://contrib.rocks/preview?repo=angular%2Fangular-ja -->
+
+<a href="https://github.com/deepbag/chartam.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=deepbag/chartam.io" />
+</a>
